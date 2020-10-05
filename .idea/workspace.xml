@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffadedcb-8292-45ca-b58a-2a1dc0a11e59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test.py" beforeDir="false" />
-    </list>
+    <list default="true" id="ffadedcb-8292-45ca-b58a-2a1dc0a11e59" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,18 +162,38 @@
       <workItem from="1601628082153" duration="7542000" />
       <workItem from="1601802935080" duration="3684000" />
       <workItem from="1601827329699" duration="4379000" />
-      <workItem from="1601860031784" duration="335000" />
+      <workItem from="1601860031784" duration="577000" />
     </task>
+    <task id="LOCAL-00001" summary="fist test">
+      <created>1601860587042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601860587043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fist test" />
+    <option name="LAST_COMMIT_MESSAGE" value="fist test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="867" y="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601860090594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="867" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601860090594" />
+    <state x="921" y="222" width="916" height="784" key="CommitChangelistDialog2" timestamp="1601860763250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="921" y="222" width="916" height="784" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601860763250" />
+    <state x="119" y="183" width="1552" height="848" key="DiffContextDialog" timestamp="1601860743389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="119" y="183" width="1552" height="848" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601860743389" />
     <state width="1193" height="257" key="GridCell.Tab.0.bottom" timestamp="1601631696416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -211,6 +226,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1193" height="257" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601631696416" />
+    <state x="937" y="367" key="Vcs.Push.Dialog.v2" timestamp="1601860608346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="937" y="367" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601860608346" />
     <state x="925" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1601805472562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
